@@ -1,0 +1,6 @@
+*.iml
+*.idea
+target
+sync.sh
+test.sh
+tcr.sh
