@@ -6,5 +6,14 @@ import org.junit.jupiter.api.Test;
 
 final class CaclulatorScenarios {
 
+    @Test
+    void add(){
+        // Given
 
+        // When
+        int sum = 3;
+
+        // Then
+        then(sum).isEqualTo(3);
+    }
 }
