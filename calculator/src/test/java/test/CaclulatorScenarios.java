@@ -11,8 +11,8 @@ final class CaclulatorScenarios {
         // Given
 
         // When
-
+        int sum = Calculator.sum(1, 2);
         // Then
-        then(3).isEqualTo(3);
+        then(sum).isEqualTo(3);
     }
 }
