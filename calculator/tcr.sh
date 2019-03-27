@@ -1,10 +1,7 @@
 #!/usr/bin/env bash
 
 test() {
-    TEST_RESULT = $(./test.sh) | tee ./tcrfeedback 2>&1
-    if [[ "$TEST_RESULT" -ne 0 ]]
-        then exit 1
-    fi
+    ./test.sh
 }
 
 commit() {
