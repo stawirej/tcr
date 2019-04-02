@@ -1,10 +1,15 @@
 #!/usr/bin/env bash
 
 test() {
-    ./test.sh
+    echo "TEST"
+    ./test.sh | tee ./tcrfeedback 2>&1
+    if [[ ${PIPESTATUS[0]} -ne 0 ]]
+        then exit 1
+    fi
 }
 
 commit() {
+    echo "COMMIT"
     git add .
     if [[ $# -eq 0 ]]
             then git commit -am working
@@ -13,10 +18,12 @@ commit() {
 }
 
 test_code_only() {
+    echo "TEST CODE ONLY"
     git status | grep src
 }
 
 revert() {
+    echo "REVERT"
     git reset --hard
     git clean -fd
 }
