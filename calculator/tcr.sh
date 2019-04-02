@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 
+# Required for logging in test section
+set -o pipefail
+
 test() {
     echo "TEST"
     ./test.sh | tee ./tcrfeedback 2>&1
-    if [[ ${PIPESTATUS[0]} -ne 0 ]]
-        then exit 1
-    fi
 }
 
 commit() {
@@ -28,5 +28,5 @@ revert() {
     git clean -fd
 }
 
-test && commit "$@" || revert
-#(test && commit "$@") || test_code_only || revert
+#test && commit "$@" || revert
+(test && commit "$@") || test_code_only || revert
