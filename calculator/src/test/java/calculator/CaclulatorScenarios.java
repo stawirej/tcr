@@ -1,4 +1,4 @@
-package test;
+package calculator;
 
 import static org.assertj.core.api.BDDAssertions.then;
 
