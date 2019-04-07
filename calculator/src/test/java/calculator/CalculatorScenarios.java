@@ -4,7 +4,7 @@ import static org.assertj.core.api.BDDAssertions.then;
 
 import org.junit.jupiter.api.Test;
 
-final class CaclulatorScenarios {
+final class CalculatorScenarios {
 
     @Test
     void addNumbers() {
