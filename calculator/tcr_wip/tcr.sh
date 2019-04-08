@@ -5,7 +5,7 @@ set -o pipefail
 
 test() {
     echo "TEST"
-    ./test.sh | tee ./tcrfeedback 2>&1
+    test.sh | tee ./tcrfeedback 2>&1
 }
 
 commit() {
