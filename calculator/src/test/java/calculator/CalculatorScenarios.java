@@ -6,5 +6,13 @@ import org.junit.jupiter.api.Test;
 
 final class CalculatorScenarios {
 
+    @Test
+    void add(){
+        // Given
+
+        // When
+
+        // Then
+    }
 }
 
