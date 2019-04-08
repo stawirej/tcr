@@ -20,15 +20,15 @@ TCR incents making changes in teensy-tiny steps.
 * Run TCR script (tcr.sh)
 
 ## Additional materials
-https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520
-https://medium.com/@kentbeck_7670/limbo-scaling-software-collaboration-afd4f00db4b
-https://medium.com/@tdeniffel/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec
-https://medium.com/@karieline/test-commit-revert-with-elm-913ff094eb7d
-https://medium.com/@kentbeck_7670/limbo-on-the-cheap-e4cfae840330
-https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
-https://hanselminutes.com/663/test-commit-revert-with-kent-beck
-https://jeffgrigg.wordpress.com/2018/11/23/test-driven-development-with-test-commit-testcodeonly-revert/
-https://medium.com/@tdeniffel/tcr-variants-test-commit-revert-bf6bd84b17d3
-https://medium.com/@tdeniffel/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec
-https://medium.com/@tdeniffel/tcr-ray-tracer-challenge-part-0-intro-93771562a29e
-https://www.davidtanzer.net/david's%20blog/2019/03/06/test-commit-revert.html
+* https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520
+* https://medium.com/@kentbeck_7670/limbo-scaling-software-collaboration-afd4f00db4b
+* https://medium.com/@tdeniffel/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec
+* https://medium.com/@karieline/test-commit-revert-with-elm-913ff094eb7d
+* https://medium.com/@kentbeck_7670/limbo-on-the-cheap-e4cfae840330
+* https://medium.com/@kentbeck_7670/test-commit-revert-870bbd756864
+* https://hanselminutes.com/663/test-commit-revert-with-kent-beck
+* https://jeffgrigg.wordpress.com/2018/11/23/test-driven-development-with-test-commit-testcodeonly-revert/
+* https://medium.com/@tdeniffel/tcr-variants-test-commit-revert-bf6bd84b17d3
+* https://medium.com/@tdeniffel/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec
+* https://medium.com/@tdeniffel/tcr-ray-tracer-challenge-part-0-intro-93771562a29e
+* https://www.davidtanzer.net/david's%20blog/2019/03/06/test-commit-revert.html
