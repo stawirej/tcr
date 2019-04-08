@@ -20,7 +20,7 @@ TCR incents making changes in teensy-tiny steps.
 * Run TCR script (tcr.sh)
 
 ## Presentation
-[test && commit || revert (TCR) - alternative to TDD or eccentricity?](https://bitbucket.org/piotrstawirej/tcr/src/50c1d28a9a2e/presentation/?at=master)
+* [test && commit || revert (TCR) - alternative to TDD or eccentricity?](https://bitbucket.org/piotrstawirej/tcr/src/50c1d28a9a2e/presentation/?at=master)
 
 ## Additional materials
 * https://medium.com/@barlindhaug/how-to-test-commit-revert-e850cd6e2520
