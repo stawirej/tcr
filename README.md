@@ -35,3 +35,4 @@ TCR incents making changes in teensy-tiny steps.
 * https://medium.com/@tdeniffel/tcr-test-commit-revert-a-test-alternative-to-tdd-6e6b03c22bec
 * https://medium.com/@tdeniffel/tcr-ray-tracer-challenge-part-0-intro-93771562a29e
 * https://www.davidtanzer.net/david's%20blog/2019/03/06/test-commit-revert.html
+* https://blog.oddmundo.com/2019/01/27/test-commit-revert-pending.html
