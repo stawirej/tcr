@@ -6,5 +6,6 @@ import org.junit.jupiter.api.Test;
 
 final class CalculatorScenarios {
 
+    int x = 1;
 }
 
