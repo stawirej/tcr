@@ -6,15 +6,5 @@ import org.junit.jupiter.api.Test;
 
 final class CalculatorScenarios {
 
-    @Test
-    void sum(){
-        // Given
-
-        // When
-        var sum = Calculator.sum(1, 2);
-
-        // Then
-        then(sum).isEqualTo(3);
-    }
 }
 
