@@ -37,3 +37,5 @@ TCR incents making changes in teensy-tiny steps.
 * https://www.davidtanzer.net/david's%20blog/2019/03/06/test-commit-revert.html
 * https://blog.oddmundo.com/2019/01/27/test-commit-revert-pending.html
 * https://software-sunshine-blog.de/eng-tcr-vs-tdd
+* https://www.youtube.com/playlist?list=PLlmVY7qtgT_nhLyIbeAaUlFOWbWT5y53t
+
